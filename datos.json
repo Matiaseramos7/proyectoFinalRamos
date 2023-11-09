@@ -1,0 +1,200 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Boca Juniors",
+            "precio": 50.00,
+            "descripcion": "El Club Atlético Boca Juniors es uno de los clubes de fútbol más exitosos de Argentina. Fundado en 1905, el equipo ha ganado numerosos títulos nacionales e internacionales, incluyendo la Copa Libertadores. Los colores del equipo son azul y amarillo.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_848412-MLA70289006766_072023-O.webp"
+        },
+        {
+            "id": 2,
+            "nombre": "River Plate",
+            "precio": 50.00,
+            "descripcion": "El Club Atlético River Plate es uno de los equipos más populares y exitosos de Argentina. Fundado en 1901, River Plate ha ganado numerosos campeonatos de liga y copas internacionales, incluyendo la Copa Libertadores. Los colores del equipo son blanco y rojo.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_625615-MLA71921713996_092023-O.webp"
+        },
+        {
+            "id": 3,
+            "nombre": "Independiente",
+            "precio": 40.00,
+            "descripcion": "El Club Atlético Independiente es uno de los equipos más antiguos y exitosos de Argentina. Fundado en 1905, el equipo ha ganado numerosos títulos de liga y copas internacionales, incluyendo la Copa Libertadores. Los colores del equipo son rojo y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_875559-MLA54406291929_032023-O.webp"
+        },
+        {
+            "id": 4,
+            "nombre": "San Lorenzo",
+            "precio": 45.00,
+            "descripcion": "El Club Atlético San Lorenzo de Almagro es uno de los clubes más tradicionales de Argentina. Fundado en 1908, el equipo ha tenido un éxito considerable en el fútbol argentino y ha ganado varios títulos. Los colores del equipo son azulgrana.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_708505-MLA41024688580_032020-O.webp   "
+        },
+        {
+            "id": 5,
+            "nombre": "Racing Club",
+            "precio": 42.00,
+            "descripcion": "El Racing Club es uno de los equipos más antiguos de Argentina, fundado en 1903. Han ganado múltiples campeonatos de liga y tienen una apasionada base de seguidores. Los colores del equipo son celeste y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_846084-MLA71701619551_092023-O.webp"
+        },
+        {
+            "id": 6,
+            "nombre": "Estudiantes de La Plata",
+            "precio": 38.00,
+            "descripcion": "El Club Estudiantes de La Plata es conocido por su éxito en el fútbol argentino y sus éxitos en competiciones internacionales. Fundado en 1905, el equipo ha ganado múltiples títulos. Los colores del equipo son rojo y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_618811-MLA54945642042_042023-O.webp"
+        },
+        {
+            "id": 7,
+            "nombre": "Newell's Old Boys",
+            "precio": 36.00,
+            "descripcion": "El Club Atlético Newell's Old Boys, fundado en 1903, es un equipo tradicional de Rosario. Han tenido éxito en el fútbol argentino y han ganado títulos importantes. Los colores del equipo son rojo y negro.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_869812-MLA54340351632_032023-O.webp"
+        },
+        {
+            "id": 8,
+            "nombre": "Huracán",
+            "precio": 33.00,
+            "descripcion": "El Club Atlético Huracán, fundado en 1908, es conocido por su participación en la liga argentina. Han tenido momentos de éxito a lo largo de su historia. Los colores del equipo son rojo y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_680170-MLA72223855539_102023-O.webp"
+        },
+        {
+            "id": 9,
+            "nombre": "Vélez Sarsfield",
+            "precio": 39.00,
+            "descripcion": "El Club Atlético Vélez Sarsfield es uno de los clubes más antiguos de Argentina, fundado en 1910. Han ganado múltiples campeonatos de liga y han tenido un éxito notorio. Los colores del equipo son azul y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_826187-MLA71498390257_092023-O.webp"
+        },
+        {
+            "id": 10,
+            "nombre": "Rosario Central",
+            "precio": 37.00,
+            "descripcion": "El Club Atlético Rosario Central, fundado en 1889, es uno de los equipos más antiguos de Argentina. Han tenido un éxito destacado en el fútbol argentino y tienen una gran base de seguidores. Los colores del equipo son azul y amarillo.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_746383-MLA72439538292_102023-O.webp"
+        },
+        {
+            "id": 11,
+            "nombre": "Lanús",
+            "precio": 34.00,
+            "descripcion": "El Club Atlético Lanús es conocido por su participación en la liga argentina. Fundado en 1915, el equipo ha tenido momentos de éxito en el fútbol argentino. Los colores del equipo son granate y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_785819-MLA53681575651_022023-F.webp"
+        },
+        {
+            "id": 12,
+            "nombre": "Talleres de Córdoba",
+            "precio": 32.00,
+            "descripcion": "El Club Atlético Talleres de Córdoba es un equipo destacado de la provincia de Córdoba. Han tenido éxito en la liga argentina y han ganado títulos. Los colores del equipo son azul y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_769850-MLA54973458051_042023-O.webp"
+        },
+        {
+            "id": 13,
+            "nombre": "Banfield",
+            "precio": 31.00,
+            "descripcion": "El Club Atlético Banfield es un equipo de fútbol tradicional de Argentina. Fundado en 1896, han tenido momentos de éxito en el fútbol argentino y han ganado títulos importantes. Los colores del equipo son verde y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_613063-MLA71503191941_092023-O.webp"
+        },
+        {
+            "id": 14,
+            "nombre": "Gimnasia y Esgrima La Plata",
+            "precio": 33.00,
+            "descripcion": "El Club de Gimnasia y Esgrima La Plata, fundado en 1887, es uno de los equipos más antiguos de Argentina. Han tenido una presencia constante en la liga argentina y tienen una base de seguidores apasionados. Los colores del equipo son blanco y azul.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_676366-MLA54902086666_042023-O.webp"
+        },
+        {
+            "id": 15,
+            "nombre": "Colón de Santa Fe",
+            "precio": 30.00,
+            "descripcion": "El Club Atlético Colón de Santa Fe, fundado en 1905, es un equipo de fútbol que ha competido en la liga argentina. Han tenido momentos de éxito en su historia. Los colores del equipo son rojo y negro.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_863763-MLA46292092320_062021-O.webp"
+        },
+        {
+            "id": 16,
+            "nombre": "Defensa y Justicia",
+            "precio": 32.00,
+            "descripcion": "El Club Social y Deportivo Defensa y Justicia es un equipo relativamente joven de Argentina, fundado en 1935. Han ganado títulos recientemente y han logrado reconocimiento en el fútbol argentino. Los colores del equipo son verde y amarillo.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_640945-MLA54123672127_032023-O.webp"
+        },
+        {
+            "id": 17,
+            "nombre": "Godoy Cruz",
+            "precio": 29.00,
+            "descripcion": "El Club Deportivo Godoy Cruz Antonio Tomba es un equipo de fútbol de Mendoza. Han competido en la liga argentina y han tenido momentos de éxito en su historia. Los colores del equipo son azul y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_829047-MLA69446100499_052023-O.webp"
+        },
+        {
+            "id": 18,
+            "nombre": "Aldosivi",
+            "precio": 28.00,
+            "descripcion": "El Club Atlético Aldosivi es un equipo de Mar del Plata, fundado en 1913. Han tenido participación en la liga argentina y han ganado seguidores en la región. Los colores del equipo son amarillo y negro.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_898571-MLA71999482360_102023-O.webp"
+        },
+        {
+            "id": 19,
+            "nombre": "Central Córdoba",
+            "precio": 30.00,
+            "descripcion": "El Club Atlético Central Córdoba es un equipo de Santiago del Estero. Han tenido momentos de éxito en la liga argentina y han logrado reconocimiento. Los colores del equipo son negro y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_867470-MLA69678007258_052023-O.webp"
+        },
+        {
+            "id": 20,
+            "nombre": "Argentinos Juniors",
+            "precio": 31.00,
+            "descripcion": "El Club Atlético Argentinos Juniors, fundado en 1904, es un equipo tradicional de Buenos Aires. Han tenido éxitos en su historia y han producido talentosos futbolistas. Los colores del equipo son rojo y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_790788-MLA54719304305_032023-O.webp"
+        },
+        {
+            "id": 21,
+            "nombre": "Unión de Santa Fe",
+            "precio": 29.00,
+            "descripcion": "El Club Atlético Unión de Santa Fe, fundado en 1907, es un equipo que ha competido en la liga argentina. Han tenido momentos de éxito en su historia y una base de seguidores apasionados. Los colores del equipo son rojo y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_690652-MLA69399266805_052023-O.webp"
+        },
+        {
+            "id": 22,
+            "nombre": "Patronato",
+            "precio": 28.00,
+            "descripcion": "El Club Atlético Patronato de la Juventud Católica es un equipo de Paraná, fundado en 1914. Han tenido participación en la liga argentina y han ganado seguidores en la región. Los colores del equipo son rojinegro.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_914775-MLA46889395136_072021-O.webp"
+        },
+        {
+            "id": 23,
+            "nombre": "Arsenal",
+            "precio": 26.00,
+            "descripcion": "El Club Atlético Arsenal, fundado en 1957, es un equipo relativamente joven de Argentina. Han ganado reconocimiento en el fútbol argentino y han tenido participación en competiciones nacionales e internacionales. Los colores del equipo son rojo y negro.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_813260-MLA54793920004_042023-O.webp"
+        },
+        {
+            "id": 24,
+            "nombre": "Sarmiento",
+            "precio": 27.00,
+            "descripcion": "El Club Atlético Sarmiento es un equipo de fútbol de Junín, fundado en 1911. Han competido en la liga argentina y han tenido momentos de éxito en su historia. Los colores del equipo son verde y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_956567-MLA70391415341_072023-O.webp"
+        },
+        {
+            "id": 25,
+            "nombre": "Platense",
+            "precio": 26.00,
+            "descripcion": "El Club Atlético Platense es uno de los equipos más antiguos de Argentina, fundado en 1905. Han tenido participación en la liga argentina y han tenido éxito en su historia. Los colores del equipo son marrón y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_707729-MLA54940345458_042023-O.webp"
+        },
+        {
+            "id": 26,
+            "nombre": "San Martín de Tucumán",
+            "precio": 27.00,
+            "descripcion": "El Club Atlético San Martín de Tucumán es un equipo de la provincia de Tucumán. Han competido en la liga argentina y han tenido momentos de éxito en su historia. Los colores del equipo son verde y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_605647-MLA31067507654_062019-O.webp"
+        },
+        {
+            "id": 27,
+            "nombre": "Quilmes",
+            "precio": 25.00,
+            "descripcion": "El Club Atlético Quilmes es un equipo tradicional de Argentina, fundado en 1887. Han tenido momentos de éxito en el fútbol argentino y han ganado seguidores en la región. Los colores del equipo son verde y blanco.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_998450-MLA69201944748_052023-O.webp"
+        },
+        {
+            "id": 28,
+            "nombre": "Chacarita Juniors",
+            "precio": 26.00,
+            "descripcion": "El Club Atlético Chacarita Juniors es un equipo de Buenos Aires, fundado en 1906. Han tenido participación en la liga argentina y han tenido momentos de éxito en su historia. Los colores del equipo son blanquirojo.",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_779790-MLA72441297470_102023-O.webp"
+        }
+    ]
+}
