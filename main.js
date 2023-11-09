@@ -195,7 +195,6 @@ const $logout = document.querySelector('#logout')
                     $contenedorStock.appendChild(cardProducto);
                 });
 
-                // Volver a agregar los event listeners para los botones de eliminar
                 const botonesEliminar = document.querySelectorAll('.borrarCard');
                 botonesEliminar.forEach(boton => {
                     boton.addEventListener('click', (event) => {
@@ -240,22 +239,3 @@ const $logout = document.querySelector('#logout')
             window.location.href = './inicio.html';
         }, 3000);
     })
-
-// const Toast = Swal.mixin({
-//     toast: true,
-//     position: 'top-end',
-//     showConfirmButton: false,
-//     timer: 3000,
-//     timerProgressBar: true,
-// });
-
-// $logout.addEventListener('click', (e) => {
-//     e.preventDefault()
-//     Toast.fire({
-//         icon: 'success',
-//         title: 'Cerrando Sesión...',
-//     });
-//     setTimeout(() => {
-//         window.location.href = './inicio.html';
-//     }, 3000);
-// });
